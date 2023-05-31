@@ -23,9 +23,6 @@ https://lookerstudio.google.com/reporting/025d7e66-ec93-4630-824a-1f5ee2415b26
 
 Above link is for What's the distribution of number of segments included in transactions?
 
-![Uploading image.png…]()
-
-
 
 
 
