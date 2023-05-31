@@ -27,11 +27,3 @@ Above link is for What's the distribution of number of segments included in tran
 
 
 
-
-![Screenshot from 2023-05-30 15-53-01](https://github.com/jayamaalathy-datascience/assignment-kafka/assets/58150949/e6a9b7ed-f500-48d1-bd4d-35a01811d286)
-![Screenshot from 2023-05-31 03-42-22](https://github.com/jayamaalathy-datascience/assignment-kafka/assets/58150949/baed0a66-9622-42ac-8538-8ab356099bd0)
-
-
-
-
-
