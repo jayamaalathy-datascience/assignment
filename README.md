@@ -26,6 +26,6 @@ Above link is for What's the distribution of number of segments included in tran
 
 Due to time constraint I am able to get the idea of the 2nd insight
 Get the region of orginairport code and then select region of destination airport code if they are both same region then domestic else international
-
+(What's the split between domestic vs international transactions?)
 
 
